@@ -26,7 +26,7 @@ public class ZohoAppPage extends Page{
 	
 public CRMHomePage gotoCRM() {
 		
-	//driver.findElement(By.xpath("//div[text()='CRM']")).click();
+	
 		
 	click("CRMLink_XPATH");
 	
